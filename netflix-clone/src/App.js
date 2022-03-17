@@ -61,9 +61,9 @@ export default () => {
     </section>
 
     <footer>
-      feito com <span role="img" aria-label="coração">💜</span> por Luana Rodrigues de Paula 
+      Feito com <span role="img" aria-label="coração">💜</span> por Luana Rodrigues de Paula 
       <br />Direitos de Imagem para Netflix
-      <br />Dados pegos do site Themoviedb.org
+      <br />Dados retirados do site Themoviedb.org
     </footer>
     
     {movieList.length <= 0 && 
